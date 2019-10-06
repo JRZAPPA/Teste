@@ -1,1 +1,1 @@
-eu estou fasendo um txte no GIT.
+Eu estou fazendo um texto no GIT.
